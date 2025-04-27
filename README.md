@@ -18,14 +18,24 @@
 
 ## 🛠️ Tech Stack
 
-```
-🧠 Machine Learning: PyTorch, YOLO, Keras (CNN/RNN prototyping) 
-🖼️ CV Tools: OpenCV, MMOCR (TextSnake), Tesseract  
-🐍 Python: NumPy, Pandas, scikit-learn, Matplotlib  
-🧰 Backend: Flask, REST API, Docker, Git
-💻 Frontend: React (basic)  
-🗃️ Databases: PostgreSQL (basic)  
-```
+<p align="center">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/Ultralytics YOLO-00B2FF?logo=ultralytics&logoColor=white" alt="Ultralytics YOLOv8"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white" alt="OpenCV"/>
+  <img src="https://img.shields.io/badge/MMOCR-FF6F00?logo=openai&logoColor=white" alt="MMOCR"/>
+  <img src="https://img.shields.io/badge/Tesseract-4285F4?logo=google&logoColor=white" alt="Tesseract"/>
+  <img src="https://img.shields.io/badge/MLflow-0194E2?logo=mlflow&logoColor=white" alt="MLflow"/>
+  <img src="https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/REST%20API-0078D7?logo=apachespark&logoColor=white" alt="REST API"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+</p>
 
 ---
 
