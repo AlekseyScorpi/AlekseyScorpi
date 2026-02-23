@@ -95,7 +95,7 @@ Integrated with PostgreSQL and served via Docker.
 
 ## 📬 Contact
 
-- Email: `timoshin_aleksey02@mail.ru`  
 - Telegram: [@alekseyscorpi](https://t.me/alekseyscorpi)  
 - GitHub: [@AlekseyScorpi](https://github.com/AlekseyScorpi) 
 - Huggingface: [AlekseyScorpi (Aleksey Timoshin)](https://huggingface.co/AlekseyScorpi)
+
